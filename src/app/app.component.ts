@@ -11,4 +11,4 @@ export class AppComponent {
 }
 
 
-// to start project:-> cmd /c "set NODE_OPTIONS=--openssl-legacy-provider && ng serve"
+// to start project:-> $env:NODE_OPTIONS="--openssl-legacy-provider"; ng serve 

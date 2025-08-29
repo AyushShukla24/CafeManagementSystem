@@ -41,8 +41,8 @@ public class EmailUtils {
         MimeMessage message = emailSender.createMimeMessage();
         MimeMessageHelper helper = new MimeMessageHelper(message, true); // `multipart: true` replaced with `true`
 
-        helper.setFrom("amitkumarx31@gmail.com");
-        helper.setTo(to); // fixed: set recipient
+        helper.setFrom("ayush.pradhan.mantri@gmail.com");
+        helper.setTo(to);
         helper.setSubject(subject);
 
         String htmlMsg = "<p><b>Your Login details for Cafe Management System</b><br>" +

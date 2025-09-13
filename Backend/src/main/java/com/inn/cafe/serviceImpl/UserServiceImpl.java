@@ -6,9 +6,7 @@ import com.inn.cafe.JWT.JwtFilter;
 import com.inn.cafe.JWT.JwtUtils;
 import com.inn.cafe.POJO.User;
 import com.inn.cafe.constents.CafeConstant;
-import com.inn.cafe.dao.CategoryDao;
 import com.inn.cafe.dao.UserDao;
-import com.inn.cafe.service.CategoryService;
 import com.inn.cafe.service.UserService;
 import com.inn.cafe.utils.CafeUtils;
 import com.inn.cafe.utils.EmailUtils;
@@ -81,7 +79,7 @@ public class UserServiceImpl implements UserService {
         user.setContactNumber(requestMap.get("contactNumber"));
         user.setEmail(requestMap.get(("email")));
         user.setPassword(requestMap.get("password"));
-        user.setRole(requestMap.get("userRole"));
+        user.setRole("user");
         user.setStatus(("false"));
 
         return user;
@@ -114,8 +112,9 @@ public class UserServiceImpl implements UserService {
     public ResponseEntity<List<UserWrapper>> getAllUser(){
         log.info("Inside getAllUser");
         try {
-            log.info("is admin ?"+jwtFilter.isAdmin());
+            log.info("is admin ? "+jwtFilter.isAdmin());
             if(jwtFilter.isAdmin()){
+                log.info("all users",userDao.getAllUser());
                 return new ResponseEntity(userDao.getAllUser(),HttpStatus.OK);
             }
             else{

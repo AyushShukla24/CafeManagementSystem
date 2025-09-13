@@ -11,8 +11,8 @@ import { MaterialModule } from '../shared/material-module';
     CommonModule,
     MaterialModule,
     FlexLayoutModule,
-    RouterModule.forChild(DashboardRoutes)
+    RouterModule.forChild(DashboardRoutes),
   ],
-  declarations: [DashboardComponent]
+  declarations: [DashboardComponent],
 })
-export class DashboardModule { }
+export class DashboardModule {}

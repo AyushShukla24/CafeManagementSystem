@@ -50,7 +50,7 @@ export class LoginComponent implements OnInit {
   if (error.error?.message) {
     this.responseMessage = error.error?.message; 
   } else { 
-    this.responseMessage = error?.message || GlobalConstants.genericError;
+    this.responseMessage = error?.message || 'Bad Credentials';
   }
   this.ngxService.stop();
 

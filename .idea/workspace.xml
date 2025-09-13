@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de650690-4ef2-4aa8-9f9f-e726a93bf550" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.editorconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Cafe Management.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/app/dashboard/dashboard.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/dashboard/dashboard.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Frontend/src/app/home/home.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/Frontend/src/app/home/home.component.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/angular.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/protractor.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/src/app.e2e-spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/src/app.po.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/e2e/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/karma.conf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/regex.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app-routing.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/app.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/best-seller/best-seller.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/best-seller/best-seller.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/best-seller/best-seller.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/best-seller/best-seller.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dashboard/dashboard.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dashboard/dashboard.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dashboard/dashboard.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dashboard/dashboard.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/dashboard/dashboard.routing.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/forget-password/forget-password.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/forget-password/forget-password.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/forget-password/forget-password.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/forget-password/forget-password.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home/home.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home/home.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home/home.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/home/home.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layouts/full/full.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layouts/full/full.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layouts/full/header/header.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layouts/full/header/header.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layouts/full/sidebar/sidebar.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/layouts/full/sidebar/sidebar.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/login/login.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/login/login.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/login/login.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/login/login.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/material-component/dialog/view-bill-products/view-bill-products.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/material-component/dialog/view-bill-products/view-bill-products.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/material-component/dialog/view-bill-products/view-bill-products.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/material-component/dialog/view-bill-products/view-bill-products.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/material-component/material.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/material-component/material.routing.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/auth.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/auth.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/dashboard.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/dashboard.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/route-gaurd.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/route-gaurd.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/snackbar.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/snackbar.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/token-interceptor.interceptor.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/token-interceptor.interceptor.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/user.service.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/service/user.service.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/accordion/accordion.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/accordion/accordionanchor.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/accordion/accordionlink.directive.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/accordion/index.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/global-constants.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/material-module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/shared/shared.module.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/signup/signup.component.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/signup/signup.component.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/signup/signup.component.spec.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/signup/signup.component.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/.gitkeep" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/img/food1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/app.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/icons/material-design-iconic-font/css/material-design-iconic-font.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/icons/material-design-iconic-font/css/material-design-iconic-font.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/icons/material-design-iconic-font/css/materialdesignicons.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/icons/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.eot" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/pages.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/responsive.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/sidebar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/spinner.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/style.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/assets/styles/variable.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.prod.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/environments/environment.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/polyfills.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/styles.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.app.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.spec.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tslint.json" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2zBs4JfK6agFi1jhsxC9lqwJakT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CafeManagementApplication.executor": "Run",
+    "Maven.com.inn.cafe [clean].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "feature/backendPR",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Cafe Management" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Cafe Management" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de650690-4ef2-4aa8-9f9f-e726a93bf550" name="Changes" comment="" />
+      <created>1751215610275</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1751215610275</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
